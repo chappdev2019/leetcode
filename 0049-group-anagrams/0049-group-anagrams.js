@@ -13,5 +13,5 @@ function groupAnagrams(strs) {
         val.push(strs[i]);
         map.set(key, val);
     }
-    return Array.from(map.values());
+    return [...map.values()];
 }
