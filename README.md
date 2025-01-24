@@ -1,6 +1,3 @@
-# leetcode_daily-
-leetcode_daily 
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
