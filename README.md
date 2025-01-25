@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
@@ -30,11 +31,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
