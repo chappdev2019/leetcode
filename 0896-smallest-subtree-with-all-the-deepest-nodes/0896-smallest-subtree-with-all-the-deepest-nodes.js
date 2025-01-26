@@ -45,7 +45,6 @@ var subtreeWithAllDeepest = function(root) {
         let [node,depth] = queue.dequeue();
         let left = maxDepth(node.left,depth,cache);
         let right = maxDepth(node.right,depth,cache);
-        console.log(cache);
         if(left === right) return node;
         if(left>right) 
         queue.enqueue([node.left]);
