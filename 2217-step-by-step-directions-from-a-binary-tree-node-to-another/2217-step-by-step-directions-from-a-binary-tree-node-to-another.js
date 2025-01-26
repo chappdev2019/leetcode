@@ -14,9 +14,12 @@
  */
 var getDirections = function(root, startValue, destValue) {
     let node = findCommonAncestor(root)
-    let cur = findStartValue(node);
-    let cur2 = findEndVal(node);
-    return cur+cur2;
+    //let cur = findStartValue(node);
+    //let cur2 = findEndVal(node);
+    let pathArr =["",""];
+    findTarget(node)
+    return pathArr.join('');
+    //return cur+cur2;
 
     function findCommonAncestor (root) {
         if (root == null) return null;
@@ -27,6 +30,13 @@ var getDirections = function(root, startValue, destValue) {
         else if (right) return right;
         return left;
         
+    }
+    function findTarget(root,path=''){
+        if (root == null) return null;
+        if (root.val == startValue)  pathArr[0]="U".repeat(path.length);
+        if (root.val == destValue)  pathArr[1]=path;
+        findTarget(root.left, path+'L') 
+        findTarget(root.right, path+'R');
     }
 
     function findStartValue (root, path='') {
