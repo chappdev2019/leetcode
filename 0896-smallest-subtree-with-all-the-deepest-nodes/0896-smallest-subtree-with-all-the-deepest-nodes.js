@@ -55,7 +55,7 @@ var subtreeWithAllDeepest = function(root) {
 };
 var maxDepth = (root,depth=0,memo={})=>{
     if(!root) return 0;
-    let key =JSON.stringify(root);
+    let key =(root.val);
     if(key in memo) return memo[key];
     let height =1+ Math.max(maxDepth(root.left,depth+1,memo),maxDepth(root.right,depth+1,memo));
     memo[key]=height;
