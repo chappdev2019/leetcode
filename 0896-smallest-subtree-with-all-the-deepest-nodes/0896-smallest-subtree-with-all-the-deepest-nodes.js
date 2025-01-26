@@ -43,8 +43,9 @@ var subtreeWithAllDeepest = function(root) {
     let cache ={};
     while(queue.size()){
         let [node,depth] = queue.dequeue();
-        let left = maxDepth(node.left,cache);
-        let right = maxDepth(node.right,cache);
+        let left = maxDepth(node.left,depth,cache);
+        let right = maxDepth(node.right,depth,cache);
+        console.log(cache);
         if(left === right) return node;
         if(left>right) 
         queue.enqueue([node.left]);
@@ -55,9 +56,10 @@ var subtreeWithAllDeepest = function(root) {
 };
 var maxDepth = (root,depth=0,memo={})=>{
     if(!root) return 0;
-    if(root in memo) return memo[root];
-    let height =1+ Math.max(maxDepth(root.left,depth+1),maxDepth(root.right,depth+1));
-    memo[root]=height;
+    let key =JSON.stringify(root);
+    if(key in memo) return memo[key];
+    let height =1+ Math.max(maxDepth(root.left,depth+1,memo),maxDepth(root.right,depth+1,memo));
+    memo[key]=height;
     return height;
 }
 // var maxDepth = (root)=>{
