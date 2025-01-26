@@ -35,20 +35,21 @@ var getDirections = function(root, startValue, destValue) {
         if (root == null) return null;
         if (root.val == startValue)  pathArr[0]="U".repeat(path.length);
         if (root.val == destValue)  pathArr[1]=path;
+        if (pathArr[0]!=''&&pathArr[1]!='') return;
         findTarget(root.left, path+'L') 
         findTarget(root.right, path+'R');
     }
 
-    function findStartValue (root, path='') {
-        if (root == null) return null;
-        if (root.val == startValue) return path;
-        return (findStartValue(root.left, path+'U') ||
-        findStartValue(root.right, path+'U'));
-    }
-   function findEndVal (root, path='') {
-        if (root == null) return null;
-        if (root.val == destValue) return path;
-        return (findEndVal(root.left, path+'L') ||
-        findEndVal(root.right, path+'R'));
-    }
+//     function findStartValue (root, path='') {
+//         if (root == null) return null;
+//         if (root.val == startValue) return path;
+//         return (findStartValue(root.left, path+'U') ||
+//         findStartValue(root.right, path+'U'));
+//     }
+//    function findEndVal (root, path='') {
+//         if (root == null) return null;
+//         if (root.val == destValue) return path;
+//         return (findEndVal(root.left, path+'L') ||
+//         findEndVal(root.right, path+'R'));
+//     }
 };
