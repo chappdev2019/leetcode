@@ -11,8 +11,8 @@ var mergeAlternately = function(word1, word2) {
     while (p1 < word1.length || p2 < word2.length) {
         res+= word1[p1]? word1[p1] : '';
         res+= word2[p2]? word2[p2] : '';
-        if (p1> word1.length) return res + word2.slice(p2+1);
-        if (p2> word2.length) return res + word1.slice(p1+1);
+        if (p1> word1.length) return res += word2.slice(p2+1);
+        if (p2> word2.length) return res += word1.slice(p1+1);
         p1++;
         p2++;
     }
