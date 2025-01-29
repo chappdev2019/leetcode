@@ -56,21 +56,25 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/chappdev2019/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
