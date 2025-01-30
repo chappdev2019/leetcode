@@ -4,7 +4,7 @@
  * @return {number}
  */
 var countStudents = function(students, sandwiches) {
-    let times = students.length * 5;
+    let times = students.length * 4;
     let start = 0;
     while (times > 0) {
         if (students[start] == sandwiches[start]) {
