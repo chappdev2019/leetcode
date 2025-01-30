@@ -9,6 +9,7 @@
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Union Find
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
