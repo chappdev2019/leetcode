@@ -7,6 +7,7 @@ var countStudents = function(students, sandwiches) {
     let times = students.length * 4;
     let start = 0;
     while (times > 0) {
+        if (students.length == 0) return 0;
         if (students[start] == sandwiches[start]) {
             students.shift();
             sandwiches.shift();
@@ -16,6 +17,5 @@ var countStudents = function(students, sandwiches) {
         }
         times--;
     }
-    console.log(students)
     return students.length;
 };
