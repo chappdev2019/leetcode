@@ -4,11 +4,6 @@
  * @return {boolean}
  */
 var canFinish = function (numCourses, prerequisites) {
-    /* 
-        1:0 dependency。 course
-        0:[]
-        indegree == 0 mean no depedency
-     */
     let map = new Map();
     let indegree = new Array(numCourses).fill(0);
     prerequisites.forEach(([course, pre]) => {
@@ -23,17 +18,11 @@ var canFinish = function (numCourses, prerequisites) {
     }
 
     let visited = new Set();
-
     while (stack.length > 0) {
         let course = stack.pop();
         visited.add(course)
-        console.log(course)
-        console.log(indegree)
-        let list = map.get(course)||[];
+        let list = map.get(course) || [];
         for (let child of list) {
-        console.log(child)
-        console.log(course)
-
             indegree[child]--;
             if (indegree[child] == 0) {
                 stack.push(child);
