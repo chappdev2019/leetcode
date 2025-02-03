@@ -16,12 +16,12 @@ var cloneGraph = function (node) {
     return dfs(node);
 
     function dfs(node) {
-        if (map.has(node)) return map.get(node); 
-        let head = new Node(node.val);
-        map.set(node, head); 
+        if (map.has(node)) return map.get(node);
+        let copy = new Node(node.val);
+        map.set(node, copy);
         for (let i = 0; i < node.neighbors.length; i++) {
-            head.neighbors.push(dfs(node.neighbors[i]))
+            copy.neighbors.push(dfs(node.neighbors[i]))
         }
-        return head;
+        return copy;
     }
 };
