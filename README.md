@@ -8,6 +8,7 @@
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 ## Dynamic Programming
@@ -60,6 +62,7 @@
 | [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 ## Prefix Sum
 |  |
