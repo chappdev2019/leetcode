@@ -13,6 +13,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
@@ -52,6 +53,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
