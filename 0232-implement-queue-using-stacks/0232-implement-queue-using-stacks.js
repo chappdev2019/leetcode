@@ -2,7 +2,6 @@
 var MyQueue = function() {
     this.storage = [];
     this.start = 0;
-    this.tail = 0;
 };
 
 /** 
@@ -11,16 +10,20 @@ var MyQueue = function() {
  */
 MyQueue.prototype.push = function(x) {
     this.storage.push(x);
-    this.tail++;
 };
 
 /**
  * @return {number}
  */
 MyQueue.prototype.pop = function() {
-    if (this.storage.length === 0) return;
-    let val = this.storage.shift();
-    this.tail--;
+    if (this.empty()) return null;
+    const val = this.storage[this.start];
+    this.start++;
+
+    if(this.start > this.storage.length/2) {
+        this.storage = this.storage.slice(this.start);
+        this.start = 0;
+    }
     return val;
     
 };
@@ -29,7 +32,7 @@ MyQueue.prototype.pop = function() {
  * @return {number}
  */
 MyQueue.prototype.peek = function() {
-    if(this.storage.legnth === 0) return;
+    if (this.empty()) return null;
     let val = this.storage[this.start];
     return val;
 };
@@ -38,7 +41,7 @@ MyQueue.prototype.peek = function() {
  * @return {boolean}
  */
 MyQueue.prototype.empty = function() {
-    return this.storage.length === 0;
+    return this.start >= this.storage.length;
 };
 
 /** 
