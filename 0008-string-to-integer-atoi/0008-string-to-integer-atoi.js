@@ -4,11 +4,11 @@
  */
 var myAtoi = function (s) {
     let start = 0;
-    s = s.trim();
     let cur = 0;
     let sign = null;
     while (start < s.length) {
-        if (start == 0 && (s[start] == '-' || s[start] == '+')) {
+        while (s[start]==' ') start++;
+        if (s[start] == '-' || s[start] == '+') {
             sign = s[start];
             start++;
         }
