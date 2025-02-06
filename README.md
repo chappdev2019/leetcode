@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/chappdev2019/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
