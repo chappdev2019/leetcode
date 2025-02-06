@@ -5,6 +5,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chappdev2019/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chappdev2019/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
