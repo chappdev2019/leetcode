@@ -12,22 +12,13 @@
  */
 var rightSideView = function (root) {
     let res = [];
-    if (root == null) return res;
-    let queue = new Queue();
-    queue.enqueue(root);
-    while (queue.size() > 0) {
-        let size = queue.size();
-        let cur = queue.dequeue();
-        size--;
-        res.push(cur.val);
-        if (cur?.right != null) queue.enqueue(cur.right);
-        if (cur?.left != null) queue.enqueue(cur.left);
-        while (size > 0) {
-            let c = queue.dequeue();
-            size--;
-            if (c?.right != null) queue.enqueue(c.right);
-            if (c?.left != null) queue.enqueue(c.left);
-        }
+    
+    let dfs=(node,level=0)=>{
+        if(!node) return;
+        res[level]=node.val;
+        dfs(node.left,level+1)
+        dfs(node.right,level+1);
     }
+    dfs(root);
     return res;
 };
