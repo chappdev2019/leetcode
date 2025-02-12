@@ -12,6 +12,7 @@
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@
 | [0207-course-schedule](https://github.com/chappdev2019/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chappdev2019/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
+| [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
