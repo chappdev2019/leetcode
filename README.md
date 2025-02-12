@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -159,6 +161,7 @@
 | [0005-longest-palindromic-substring](https://github.com/chappdev2019/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/chappdev2019/leetcode/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -166,6 +169,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
