@@ -2,21 +2,19 @@
  * @param {number[][]} intervals
  * @return {number}
  */
-var minMeetingRooms = function (intervals) {
-    let roomEnds = [];
-    intervals.sort((a,b)=>a[0]-b[0]+(a[1]-b[1])/1e5)
-    
-    outer: for (const [start, end] of intervals) {
-        for (let i = 0; i < roomEnds.length; i++) {
-            const room = roomEnds[i];
-            const [s1, e1] = room[room.length-1];
-            if (start >= e1) {
-                roomEnds[i].push([start, end]);
-                continue outer;
-            }
-        }
-        roomEnds.push([[start, end]]);
+var minMeetingRooms = function(intervals) {
+    let map = new Map();
+    for (let i = 0; i < intervals.length; i++) {
+        let [start, end] = intervals[i];
+        map.set(start, (map.get(start)||0)+1);
+        map.set(end, (map.get(end)||0)-1);
     }
-        console.log(roomEnds);
-    return roomEnds.length;
+    let sortedTimes = [...map.entries()].sort((a, b) => a[0] - b[0])
+    let res = 0;
+    let sum = 0;
+    for (const [start,end] of sortedTimes) {
+        sum += end;
+        res = Math.max(res, sum);   
+    }
+    return res;
 };
