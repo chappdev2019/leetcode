@@ -6,6 +6,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/chappdev2019/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chappdev2019/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
@@ -33,6 +34,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chappdev2019/leetcode/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -91,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chappdev2019/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
