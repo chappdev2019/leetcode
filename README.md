@@ -23,6 +23,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chappdev2019/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Binary Search
@@ -64,6 +65,7 @@
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 ## Sorting
 |  |
 | ------- |
