@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/chappdev2019/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chappdev2019/leetcode/tree/master/0055-jump-game) |
+| [0162-find-peak-element](https://github.com/chappdev2019/leetcode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/chappdev2019/leetcode/tree/master/0162-find-peak-element) |
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
