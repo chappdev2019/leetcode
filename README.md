@@ -30,6 +30,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3221-find-the-peaks](https://github.com/chappdev2019/leetcode/tree/master/3221-find-the-peaks) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -68,6 +69,7 @@
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## String
 |  |
 | ------- |
@@ -302,5 +304,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3221-find-the-peaks](https://github.com/chappdev2019/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
