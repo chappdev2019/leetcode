@@ -26,6 +26,7 @@
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chappdev2019/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
@@ -41,6 +42,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
