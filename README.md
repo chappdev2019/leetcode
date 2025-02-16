@@ -30,6 +30,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3221-find-the-peaks](https://github.com/chappdev2019/leetcode/tree/master/3221-find-the-peaks) |
@@ -85,6 +86,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chappdev2019/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 ## Sorting
 |  |
