@@ -4,14 +4,14 @@
  * @return {number}
  */
 var minNumber = function (nums1, nums2) {
-    let res = new Array(10).fill(0);
-    for (const x of nums1) res[x]++;
-    for (const x of nums2) res[x] += 2;
-    let digit1 = 0, digit2 = 0;
-    for (let i = 1; i < 10; i++) {
-        if (res[i] == 3) return i;
-        if (digit1 == 0 && res[i] == 1) digit1 = i;
-        if (digit2 == 0 && res[i] >= 2) digit2 = i;
+    const set1 = new Set(nums1);
+    const set2 = new Set(nums2);
+
+    for (let i = 0; i <= 9; i++) {
+        if (set1.has(i) && set2.has(i)) return i;
     }
-    return digit1 > digit2 ? digit2 * 10 + digit1 : (digit1 * 10 + digit2);
+
+    const min1 = Math.min(...nums1);
+    const min2 = Math.min(...nums2);
+    return min1 < min2 ? min1*10 + min2 : min2*10 + min1;
 };
