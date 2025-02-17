@@ -84,6 +84,7 @@
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0851-goat-latin](https://github.com/chappdev2019/leetcode/tree/master/0851-goat-latin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
@@ -141,6 +142,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/chappdev2019/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -164,6 +166,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/chappdev2019/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -180,6 +183,7 @@
 | [0210-course-schedule-ii](https://github.com/chappdev2019/leetcode/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chappdev2019/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/chappdev2019/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
