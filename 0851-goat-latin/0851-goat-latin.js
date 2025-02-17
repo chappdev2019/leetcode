@@ -3,14 +3,13 @@
  * @return {string}
  */
 var toGoatLatin = function(sentence) {
-    let res = [];
     let vowels = new Set(['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']);
     let words = sentence.split(' ');
     for (let i = 0; i < words.length; i++) {
         let cur = words[i];
         let word = vowels.has(cur[0]) ? cur : cur.slice(1) + cur[0];
         word += 'ma' + 'a'.repeat(i+1);
-        res.push(word);
+        words[i] = word;
     }
-    return res.join(' ');
+    return words.join(' ');
 };
