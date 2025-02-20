@@ -87,6 +87,7 @@
 | [0008-string-to-integer-atoi](https://github.com/chappdev2019/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/chappdev2019/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0851-goat-latin](https://github.com/chappdev2019/leetcode/tree/master/0851-goat-latin) |
@@ -213,6 +214,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/chappdev2019/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/chappdev2019/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chappdev2019/leetcode/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/chappdev2019/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
+| [0301-remove-invalid-parentheses](https://github.com/chappdev2019/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
 ## Enumeration
 |  |
