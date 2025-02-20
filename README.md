@@ -83,6 +83,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chappdev2019/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +287,7 @@
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
 |  |
 | ------- |
