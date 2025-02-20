@@ -27,6 +27,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chappdev2019/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -73,6 +74,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -113,6 +115,7 @@
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -275,6 +278,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
