@@ -17,9 +17,6 @@ var removeInvalidParentheses = function(s) {
                 }
             }
         }
-        if (found) {
-            break
-        }
         queue = nextQueue;
 
     }
