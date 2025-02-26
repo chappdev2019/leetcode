@@ -377,4 +377,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chappdev2019/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Database
+|  |
+| ------- |
+| [1948-rearrange-products-table](https://github.com/chappdev2019/leetcode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
