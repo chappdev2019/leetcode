@@ -16,6 +16,7 @@
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/chappdev2019/leetcode/tree/master/0289-game-of-life) |
+| [0318-maximum-product-of-word-lengths](https://github.com/chappdev2019/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0376-wiggle-subsequence](https://github.com/chappdev2019/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/chappdev2019/leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
@@ -98,6 +99,7 @@
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0301-remove-invalid-parentheses](https://github.com/chappdev2019/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0318-maximum-product-of-word-lengths](https://github.com/chappdev2019/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0851-goat-latin](https://github.com/chappdev2019/leetcode/tree/master/0851-goat-latin) |
@@ -255,6 +257,7 @@
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/chappdev2019/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/chappdev2019/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
