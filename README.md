@@ -39,6 +39,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3221-find-the-peaks](https://github.com/chappdev2019/leetcode/tree/master/3221-find-the-peaks) |
@@ -159,6 +160,7 @@
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/chappdev2019/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Tree
 |  |
 | ------- |
