@@ -388,5 +388,6 @@
 ## Database
 |  |
 | ------- |
+| [1827-invalid-tweets](https://github.com/chappdev2019/leetcode/tree/master/1827-invalid-tweets) |
 | [1948-rearrange-products-table](https://github.com/chappdev2019/leetcode/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
