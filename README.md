@@ -393,6 +393,7 @@
 | ------- |
 | [1390-average-selling-price](https://github.com/chappdev2019/leetcode/tree/master/1390-average-selling-price) |
 | [1541-top-travellers](https://github.com/chappdev2019/leetcode/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/chappdev2019/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1801-average-time-of-process-per-machine](https://github.com/chappdev2019/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/chappdev2019/leetcode/tree/master/1827-invalid-tweets) |
 | [1948-rearrange-products-table](https://github.com/chappdev2019/leetcode/tree/master/1948-rearrange-products-table) |
