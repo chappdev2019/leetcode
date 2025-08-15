@@ -116,6 +116,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/chappdev2019/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/chappdev2019/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chappdev2019/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
