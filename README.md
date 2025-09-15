@@ -87,6 +87,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/chappdev2019/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
@@ -111,6 +112,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0851-goat-latin](https://github.com/chappdev2019/leetcode/tree/master/0851-goat-latin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/chappdev2019/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
