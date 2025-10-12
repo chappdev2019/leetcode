@@ -53,6 +53,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chappdev2019/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/chappdev2019/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/chappdev2019/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/chappdev2019/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chappdev2019/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chappdev2019/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -306,6 +309,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Counting
 |  |
 | ------- |
@@ -325,6 +329,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/chappdev2019/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -423,6 +428,7 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/chappdev2019/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
