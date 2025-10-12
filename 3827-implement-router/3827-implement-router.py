@@ -1,103 +1,55 @@
-from collections import deque, defaultdict
-from typing import List, Tuple, Dict
-
-class PacketQueue:
-    def __init__(self):
-        self.queue = deque()
-        self.timestamps = []
-        self.packet_set = set()
-
-    def enqueue(self, packet: Tuple[int, int, int]):
-        self.queue.append(packet)
-        _, _, timestamp = packet
-        self.timestamps.append(timestamp)
-        self.packet_set.add(packet)
-
-    def dequeue(self) -> Tuple[int, int, int]:
-        if not self.queue:
-            raise ValueError("Cannot dequeue from empty queue")
-        packet = self.queue.popleft()
-        _, _, timestamp = packet
-        self.timestamps.pop(0)
-        self.packet_set.remove(packet)
-        return packet
-
-    def contains(self, packet: Tuple[int, int, int]) -> bool:
-        return packet in self.packet_set
-
-    def _lower_bound(self, arr: List[int], target: int) -> int:
-        left, right = 0, len(arr) - 1
-        ans = len(arr)
-        while left <= right:
-            mid = (left + right) // 2
-            if arr[mid] >= target:
-                ans = mid
-                right = mid - 1
-            else:
-                left = mid + 1
-        return ans
-
-    def _upper_bound(self, arr: List[int], target: int) -> int:
-        left, right = 0, len(arr) - 1
-        ans = len(arr)
-        while left <= right:
-            mid = (left + right) // 2
-            if arr[mid] > target:
-                ans = mid
-                right = mid - 1
-            else:
-                left = mid + 1
-        return ans
-
-    def countBetweenTimes(self, start_time: int, end_time: int) -> int:
-        if not self.timestamps:
-            return 0
-        start_index = self._lower_bound(self.timestamps, start_time)
-        end_index = self._upper_bound(self.timestamps, end_time)
-        return max(0, end_index - start_index)
-
-    @property
-    def size(self) -> int:
-        return len(self.queue)
+from collections import deque
+from bisect import bisect_left, bisect_right
 
 class Router:
-    def __init__(self, memoryLimit: int):
-        self.memoryLimit = memoryLimit
-        self.globalQueue = PacketQueue()  
-        self.destinationQueues: Dict[int, PacketQueue] = defaultdict(PacketQueue)
+    def __init__(self, memory_limit: int):
+        self.memory_limit = memory_limit              
+        self.packet_queue = deque()                    
+        self.packet_set = set()                        
+        self.destination_map = {}                   
 
     def addPacket(self, source: int, destination: int, timestamp: int) -> bool:
-        packet = (source, destination, timestamp)
-        destQueue = self.destinationQueues[destination]
+        packet_key = (source, destination, timestamp)
 
-        if destQueue.contains(packet):
+        if packet_key in self.packet_set:
             return False
 
-        if self.globalQueue.size >= self.memoryLimit:
-            old_src, old_dest, _ = self.globalQueue.dequeue()
-            self.destinationQueues[old_dest].dequeue()
+        self.packet_queue.append(packet_key)
+        self.packet_set.add(packet_key)
 
-        self.globalQueue.enqueue(packet)
-        destQueue.enqueue(packet)
+        if destination not in self.destination_map:
+            self.destination_map[destination] = [[], 0]
+
+        timestamps, left_index = self.destination_map[destination]
+        timestamps.append(timestamp)
+
+        if len(self.packet_queue) > self.memory_limit:
+            src, dest, time = self.packet_queue.popleft()
+            self.packet_set.remove((src, dest, time))
+            timestamps_old, left_old = self.destination_map[dest]
+            self.destination_map[dest][1] = left_old + 1  
         return True
 
-    def forwardPacket(self) -> List[int]:
-
-        if self.globalQueue.size == 0:
+    def forwardPacket(self) -> list[int]:
+        if not self.packet_queue:
             return []
 
-        src, dest, time = self.globalQueue.dequeue()
-        destQueue = self.destinationQueues[dest]
-        destQueue.dequeue()
+        src, dest, time = self.packet_queue.popleft()
+        self.packet_set.remove((src, dest, time))
 
-        if destQueue.size == 0:
-            del self.destinationQueues[dest]
-
+        timestamps, left_index = self.destination_map[dest]
+        self.destination_map[dest][1] = left_index + 1
         return [src, dest, time]
 
     def getCount(self, destination: int, start_time: int, end_time: int) -> int:
- 
-        if destination not in self.destinationQueues:
+        if destination not in self.destination_map:
             return 0
-        destQueue = self.destinationQueues[destination]
-        return destQueue.countBetweenTimes(start_time, end_time)
+
+        timestamps, left_index = self.destination_map[destination]
+
+        if left_index >= len(timestamps):
+            return 0
+
+        left_bound = bisect_left(timestamps, start_time, left_index)
+        right_bound = bisect_right(timestamps, end_time, left_index)
+        return max(0, right_bound - left_bound)
