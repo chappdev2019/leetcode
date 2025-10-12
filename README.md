@@ -417,6 +417,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/chappdev2019/leetcode/tree/master/0584-find-customer-referee) |
 | [1390-average-selling-price](https://github.com/chappdev2019/leetcode/tree/master/1390-average-selling-price) |
 | [1541-top-travellers](https://github.com/chappdev2019/leetcode/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/chappdev2019/leetcode/tree/master/1625-group-sold-products-by-the-date) |
