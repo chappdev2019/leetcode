@@ -30,6 +30,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chappdev2019/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -93,6 +94,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chappdev2019/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
@@ -120,6 +122,7 @@
 | [0851-goat-latin](https://github.com/chappdev2019/leetcode/tree/master/0851-goat-latin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/chappdev2019/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -147,6 +150,7 @@
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/chappdev2019/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
