@@ -4,14 +4,11 @@
  * @return {number}
  */
 var maximumEnergy = function(energy, k) {
-    const n = energy.length;
     let maxEnergy = -Infinity;
-
-    for (let start = 0; start < k; start++) {
+    for (let i=0; i<k; i++) {
         let sum = 0;
-        const last = start + Math.floor((n - 1 - start) / k) * k; 
-        for (let i = last; i >= start; i -= k) {
-            sum += energy[i];
+        for (let j=energy.length-1-i; j>=0; j-=k) {
+            sum += energy[j];
             maxEnergy = Math.max(maxEnergy, sum);
         }
     }
