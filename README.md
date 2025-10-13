@@ -51,6 +51,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/chappdev2019/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chappdev2019/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/chappdev2019/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/chappdev2019/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chappdev2019/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/chappdev2019/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Topological Sort
 |  |
 | ------- |
