@@ -3,6 +3,7 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
+    if (nums.length <= 2) return nums.length;
     let fast = 2;
     let slow = 2;
     while (fast < nums.length) {
