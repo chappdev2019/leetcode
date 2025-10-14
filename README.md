@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chappdev2019/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/chappdev2019/leetcode/tree/master/0036-valid-sudoku) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chappdev2019/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chappdev2019/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/chappdev2019/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chappdev2019/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
