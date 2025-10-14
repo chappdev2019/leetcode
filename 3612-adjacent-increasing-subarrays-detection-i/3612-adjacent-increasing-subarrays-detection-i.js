@@ -6,21 +6,29 @@
 var hasIncreasingSubarrays = function(nums, k) {
   const n = nums.length;
 
-  for (let i = 0; i <= n - 2 * k; i++) {
-    let f = [nums[i]];
-    for (let j = i + 1; j < i + k; j++) {
-      if (nums[j] > nums[j - 1]) f.push(nums[j]);
-      else break;
+  for (let start = 0; start <= n - 2 * k; start++) {
+    let firstIncCount = 1;
+
+    for (let i = start + 1; i < start + k; i++) {
+      if (nums[i] > nums[i - 1]) {
+        firstIncCount++;
+      } else {
+        break;
+      }
     }
 
-    if (f.length === k) {
-      let x = [nums[i + k]];
-      for (let j = i + k + 1; j < i + 2 * k; j++) {
-        if (nums[j] > nums[j - 1]) x.push(nums[j]);
-        else break;
+    if (firstIncCount === k ) {
+      let secondIncCount = 1;
+
+      for (let i = start + k + 1; i < start + 2 * k; i++) {
+        if (nums[i] > nums[i - 1]) {
+          secondIncCount++;
+        } else {
+          break;
+        }
       }
 
-      if (x.length === k) return true;
+      if (secondIncCount === k) return true;
     }
   }
 
