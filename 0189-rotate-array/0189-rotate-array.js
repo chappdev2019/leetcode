@@ -10,7 +10,7 @@ var rotate = function(nums, k) {
     // nums.splice(0, nums.length,...rotated);
     const rotate = (arr, start, end) => {
         while(start < end) {
-            [nums[start], nums[end]] = [nums[end], nums[start]];
+            [arr[start], arr[end]] = [arr[end], arr[start]];
             start++;
             end--;
         }
