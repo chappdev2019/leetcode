@@ -8,15 +8,15 @@ var rotate = function(nums, k) {
     // if (k == 0 ) return;
     // let rotated = nums.slice(-k).concat(nums.slice(0, nums.length - k));
     // nums.splice(0, nums.length,...rotated);
-    const rotate = (start, end) => {
+    const rotate = (arr, start, end) => {
         while(start < end) {
             [nums[start], nums[end]] = [nums[end], nums[start]];
             start++;
             end--;
         }
     }
-    rotate(0, nums.length-1);
-    rotate(0, k-1);
-    rotate(k, nums.length-1);
+    rotate(nums, 0, nums.length-1);
+    rotate(nums, 0, k-1);
+    rotate(nums, k, nums.length-1);
 
 };
