@@ -4,7 +4,6 @@
  */
 var maxIncreasingSubarrays = function(nums) {
     const n = nums.length;
-    if (n < 2) return 0;
 
     let res = 0;     
     let temp = 1;      
