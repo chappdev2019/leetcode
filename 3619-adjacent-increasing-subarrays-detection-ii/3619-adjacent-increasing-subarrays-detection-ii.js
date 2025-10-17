@@ -10,7 +10,6 @@ var maxIncreasingSubarrays = function(nums) {
     for (let i = 1; i < n; i++) {
         if (nums[i] > nums[i - 1]) left[i] = left[i - 1] + 1;
     }
-    console.log(left)
     let res = 1;
     let rightLen = 1;
     for (let i = n - 2; i >= 0; i--) {
