@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/chappdev2019/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/chappdev2019/leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/chappdev2019/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/chappdev2019/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/chappdev2019/leetcode/tree/master/0048-rotate-image) |
@@ -414,6 +415,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/chappdev2019/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/chappdev2019/leetcode/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/chappdev2019/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
