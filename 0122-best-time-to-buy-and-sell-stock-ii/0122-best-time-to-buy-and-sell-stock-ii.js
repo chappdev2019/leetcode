@@ -4,12 +4,12 @@
  */
 var maxProfit = function (prices) {
     const len = prices.length;
-    const dp = Array.from({ length: len }, () => [0, 0]);
-    dp[0][0] = 0;
-    dp[0][1] = -prices[0];
+    // const dp = Array.from({ length: len }, () => [0, 0]);
+    let cash = 0;
+    let hold = -prices[0];
     for (let i = 1; i < len; i++) {
-        dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] + prices[i]);
-        dp[i][1] = Math.max(dp[i - 1][1], dp[i - 1][0] - prices[i]);
+        cash = Math.max(cash, hold + prices[i]);
+        hold = Math.max(hold, cash - prices[i]);
     }
-    return dp[len - 1][0];
+    return cash;
 };
