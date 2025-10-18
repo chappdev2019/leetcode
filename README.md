@@ -54,6 +54,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/chappdev2019/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/chappdev2019/leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2881-split-strings-by-separator](https://github.com/chappdev2019/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3221-find-the-peaks](https://github.com/chappdev2019/leetcode/tree/master/3221-find-the-peaks) |
@@ -115,6 +116,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chappdev2019/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/chappdev2019/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -197,6 +199,7 @@
 | [0455-assign-cookies](https://github.com/chappdev2019/leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/chappdev2019/leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/chappdev2019/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +211,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chappdev2019/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/chappdev2019/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Tree
 |  |
 | ------- |
