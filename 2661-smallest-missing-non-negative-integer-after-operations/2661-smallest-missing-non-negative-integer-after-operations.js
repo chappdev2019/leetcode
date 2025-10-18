@@ -9,7 +9,6 @@ var findSmallestInteger = function(nums, value) {
         const r = ((x % value)+value) % value;
         seen[r]++;
     }
-    console.log(seen)
     let i = 0;
     while (true) {
         const need = i % value;
