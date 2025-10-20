@@ -49,6 +49,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/chappdev2019/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -147,6 +148,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chappdev2019/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/chappdev2019/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/chappdev2019/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -327,6 +329,7 @@
 | [0289-game-of-life](https://github.com/chappdev2019/leetcode/tree/master/0289-game-of-life) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chappdev2019/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3790-fruits-into-baskets-ii](https://github.com/chappdev2019/leetcode/tree/master/3790-fruits-into-baskets-ii) |
