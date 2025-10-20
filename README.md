@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/chappdev2019/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chappdev2019/leetcode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/chappdev2019/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/chappdev2019/leetcode/tree/master/0289-game-of-life) |
@@ -393,6 +394,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/chappdev2019/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/chappdev2019/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Topological Sort
