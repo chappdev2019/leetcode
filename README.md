@@ -38,6 +38,7 @@
 | [0761-employee-free-time](https://github.com/chappdev2019/leetcode/tree/master/0761-employee-free-time) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/chappdev2019/leetcode/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/chappdev2019/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/chappdev2019/leetcode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -93,6 +94,7 @@
 | [0289-game-of-life](https://github.com/chappdev2019/leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
 | [0550-shortest-path-to-get-food](https://github.com/chappdev2019/leetcode/tree/master/0550-shortest-path-to-get-food) |
+| [1036-rotting-oranges](https://github.com/chappdev2019/leetcode/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chappdev2019/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
@@ -300,6 +302,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chappdev2019/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1036-rotting-oranges](https://github.com/chappdev2019/leetcode/tree/master/1036-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/chappdev2019/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1558-course-schedule-iv](https://github.com/chappdev2019/leetcode/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/chappdev2019/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
