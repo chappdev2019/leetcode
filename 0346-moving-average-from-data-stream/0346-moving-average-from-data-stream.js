@@ -4,6 +4,7 @@
 var MovingAverage = function (size) {
     this.window = [];
     this.limit = size;
+    this.sum = 0;
 };
 
 /** 
@@ -12,11 +13,11 @@ var MovingAverage = function (size) {
  */
 MovingAverage.prototype.next = function (val) {
     if (this.window.length >= this.limit) {
-        this.window.shift();
+        this.sum -= this.window.shift();
     } 
     this.window.push(val);
-    let sum = this.window.reduce((acc, total) => total += acc, 0);
-    return sum / this.window.length;
+    this.sum += val;
+    return this.sum / this.window.length;
 
 };
 
