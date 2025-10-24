@@ -159,6 +159,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chappdev2019/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chappdev2019/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -216,6 +217,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/chappdev2019/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/chappdev2019/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
@@ -502,4 +505,12 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/chappdev2019/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
