@@ -11,6 +11,5 @@ var hasSameDigits = function (s) {
         }
         cur = next;
     }
-    console.log(cur)
     return cur[0] === cur[1];
 };
