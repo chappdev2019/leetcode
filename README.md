@@ -29,6 +29,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chappdev2019/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/chappdev2019/leetcode/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/chappdev2019/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0376-wiggle-subsequence](https://github.com/chappdev2019/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/chappdev2019/leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/chappdev2019/leetcode/tree/master/0542-01-matrix) |
@@ -364,6 +365,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chappdev2019/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -386,12 +388,14 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chappdev2019/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Stack
