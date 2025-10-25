@@ -218,6 +218,7 @@
 | [0189-rotate-array](https://github.com/chappdev2019/leetcode/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/chappdev2019/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chappdev2019/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/chappdev2019/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/chappdev2019/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/chappdev2019/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
