@@ -121,6 +121,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/chappdev2019/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chappdev2019/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -370,6 +371,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Counting
 |  |
@@ -382,6 +384,7 @@
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chappdev2019/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/chappdev2019/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/chappdev2019/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -392,6 +395,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
@@ -399,6 +403,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Stack
 |  |
 | ------- |
