@@ -3,10 +3,9 @@
  * @param {number} k
  */
 var DataStream = function(value, k) {
-    this.arr = [];
     this.k = k;
     this.value = value;
-
+    this.count = 0;
 };
 
 /** 
@@ -14,10 +13,12 @@ var DataStream = function(value, k) {
  * @return {boolean}
  */
 DataStream.prototype.consec = function(num) {
-    this.arr.push(num);
-    if (this.arr.length > this.k) this.arr.shift();
-    if (this.arr.length < this.k) return false;
-    return this.arr.every(e => e === this.value);
+    if (num === this.value) {
+        this.count++;
+    } else {
+        this.count = 0;
+    }
+    return this.count >= this.k;
 };
 
 /** 
