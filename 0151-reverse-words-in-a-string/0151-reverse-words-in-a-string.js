@@ -1,21 +1,22 @@
-/**
- * @param {string} s
- * @return {string}
- */
 var reverseWords = function (s) {
-    let str = s.trim();
-    let res = [];
+    let res = '';
     let char = '';
-    let start = 0;
-    while (start < str.length) {
-        while (str[start] === ' ') start++;
-        if (start > 1 && str[start-1] == ' ') {
-            res.unshift(char)
-            char = '';
+    let i = 0;
+    let prependIfAny = (text) => text ? ' ' + text : ''
+
+    while (i < s.length) {
+        if (s[i] === ' ') {
+            if (char) {
+                res = char + prependIfAny(res);
+                char = '';
+            }
+            while (i < s.length && s[i] === ' ') i++;
+        } else {
+            char += s[i];
+            i++;
         }
-        char += str[start];
-        start++;
     }
-    res.unshift(char)
-    return res.join(' ');
+
+    if (char) res = char + prependIfAny(res);;
+    return res;
 };
