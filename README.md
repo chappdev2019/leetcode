@@ -52,6 +52,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/chappdev2019/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/chappdev2019/leetcode/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/chappdev2019/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/chappdev2019/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -121,6 +122,7 @@
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2107-find-unique-binary-string](https://github.com/chappdev2019/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/chappdev2019/leetcode/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chappdev2019/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/chappdev2019/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -348,6 +350,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/chappdev2019/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chappdev2019/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chappdev2019/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/chappdev2019/leetcode/tree/master/2169-simple-bank-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/chappdev2019/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/chappdev2019/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/chappdev2019/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -398,6 +401,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2169-simple-bank-system](https://github.com/chappdev2019/leetcode/tree/master/2169-simple-bank-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3827-implement-router](https://github.com/chappdev2019/leetcode/tree/master/3827-implement-router) |
 ## Data Stream
