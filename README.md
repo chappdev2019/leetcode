@@ -139,6 +139,7 @@
 | [0005-longest-palindromic-substring](https://github.com/chappdev2019/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/chappdev2019/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/chappdev2019/leetcode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/chappdev2019/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/chappdev2019/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/chappdev2019/leetcode/tree/master/0067-add-binary) |
@@ -323,6 +324,7 @@
 | [0011-container-with-most-water](https://github.com/chappdev2019/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chappdev2019/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chappdev2019/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/chappdev2019/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chappdev2019/leetcode/tree/master/0141-linked-list-cycle) |
@@ -490,6 +492,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chappdev2019/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
