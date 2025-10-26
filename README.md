@@ -23,6 +23,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chappdev2019/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/chappdev2019/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chappdev2019/leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/chappdev2019/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chappdev2019/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/chappdev2019/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/chappdev2019/leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -109,6 +110,7 @@
 | [0133-clone-graph](https://github.com/chappdev2019/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/chappdev2019/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chappdev2019/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/chappdev2019/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -469,6 +471,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chappdev2019/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/chappdev2019/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
