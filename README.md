@@ -111,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/chappdev2019/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/chappdev2019/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chappdev2019/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0359-logger-rate-limiter](https://github.com/chappdev2019/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/chappdev2019/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chappdev2019/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/chappdev2019/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -406,6 +407,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chappdev2019/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/chappdev2019/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2169-simple-bank-system](https://github.com/chappdev2019/leetcode/tree/master/2169-simple-bank-system) |
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/chappdev2019/leetcode/tree/master/0346-moving-average-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/chappdev2019/leetcode/tree/master/0359-logger-rate-limiter) |
 | [0937-online-stock-span](https://github.com/chappdev2019/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/chappdev2019/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/chappdev2019/leetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
