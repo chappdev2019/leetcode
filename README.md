@@ -159,6 +159,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/chappdev2019/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1483-rank-teams-by-votes](https://github.com/chappdev2019/leetcode/tree/master/1483-rank-teams-by-votes) |
 | [1547-destination-city](https://github.com/chappdev2019/leetcode/tree/master/1547-destination-city) |
+| [1714-rearrange-spaces-between-words](https://github.com/chappdev2019/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1894-merge-strings-alternately](https://github.com/chappdev2019/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chappdev2019/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/chappdev2019/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
