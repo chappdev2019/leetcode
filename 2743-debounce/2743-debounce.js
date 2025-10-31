@@ -9,7 +9,8 @@ var debounce = function(fn, t) {
         let context = this;
         clearTimeout(timeID);
         timeID = setTimeout(() => {
-            fn.apply(context, args)
+            // fn.apply(context, args)
+            fn(...args);
         }, t)        
     }
 };
